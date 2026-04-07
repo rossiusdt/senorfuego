@@ -17,7 +17,7 @@ function App() {
       color: 'bg-amber-100',
       borderColor: 'border-amber-500',
       textColor: 'text-amber-900',
-      checkoutUrl: 'https://seguro.SEGUROPAGUER.CFD/api/public/shopify?product=2984071739644&store=29840',
+      checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989198183727&store=29891',
     },
     {
       id: 'mesa5',
@@ -26,7 +26,7 @@ function App() {
       color: 'bg-red-100',
       borderColor: 'border-red-500',
       textColor: 'text-red-900',
-      checkoutUrl: 'https://seguro.SEGUROPAGUER.CFD/api/public/shopify?product=2984075326696&store=29840',
+      checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989166769636&store=29891',
     },
   ];
 
